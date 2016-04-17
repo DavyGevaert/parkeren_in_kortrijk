@@ -1,0 +1,3630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kopie van Parkeerautomaten Parko.kml</name>
+	<StyleMap id="gv_waypoint0010000011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal112010001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight420</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint0010000012">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal11201001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight4200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_normal">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight42000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint00100000100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal1120100000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_highlight4200">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal11200">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight420000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal10">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight0000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_highlight0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal11201">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight41">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_highlight2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight420">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_normal112">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_highlight421">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight4201">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight20">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal1120100">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal112010000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal112010001">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight42">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint001000000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal112010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight4210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_highlight420001">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal11201000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint0010000010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal112010000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight42000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint00100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal11200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_highlight4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal112010">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight4200000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight0000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint00100000000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal11201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight4201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_normal1120101">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_highlight40">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal1120">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal110">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal11201001">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint00100000101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal11201000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight420001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_highlight4210">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint001000001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal1120100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight420000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint0010000000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal1120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight4200000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="gv_waypoint001000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal1121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_normal0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal1121">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="gv_waypoint_normal1120100000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint00100000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal1120101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight421</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gv_waypoint_normal111">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="gv_waypoint0010000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gv_waypoint_normal112</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gv_waypoint_highlight4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="Waypoints">
+		<name>Parkeerautomaten Parko</name>
+		<LookAt>
+			<longitude>3.255589949700752</longitude>
+			<latitude>50.82475855120052</latitude>
+			<altitude>0</altitude>
+			<heading>-2.31929227927001e-010</heading>
+			<tilt>0</tilt>
+			<range>6258.518932632144</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Placemark>
+			<name>90171</name>
+			<description>Kloosterstraat 5 Marke, 8510 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00</styleUrl>
+			<Point>
+				<coordinates>3.234366291640523,50.80687650717593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90244</name>
+			<description>Doorniksesteenweg 77, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100</styleUrl>
+			<Point>
+				<coordinates>3.278042595269184,50.80952392452769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90243</name>
+			<description>Doorniksesteenweg Radio2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100</styleUrl>
+			<Point>
+				<coordinates>3.277526172601095,50.80961372858702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90310</name>
+			<description>Loofstraat 61-63, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.263344976327878,50.81710550607703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90311</name>
+			<description>Loofstraat 78-80, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.263540829890186,50.81704582883831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90309</name>
+			<description>Loofstraat 54-72, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.26429371768985,50.817652235117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90182</name>
+			<description>Loofstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.264693668917047,50.81776600023186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90181</name>
+			<description>Loofstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.265294600292068,50.81824899996525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90179</name>
+			<description>Loofstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.265055752123145,50.81829983425038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description>N50 60, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.271101100000001,50.8158552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90180</name>
+			<description>Loofstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.266209822569592,50.81886354814984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90328</name>
+			<description>Cond&amp;#233;dreef 1-25, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.2587023846288,50.8190955689383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90303</name>
+			<description>Wagenmakersstraat 1-43, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.270657338332126,50.81913079930493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90304</name>
+			<description>Wagenmakersstraat 57-89, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.273154498094557,50.8192390314713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90302</name>
+			<description>Volksplein nr 18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.271973994291846,50.81937552081507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Pijlstraat 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2708992,50.8195951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90037</name>
+			<description>Doorniksewijk, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.269565393228648,50.81846401495854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90015</name>
+			<description>Doorniksewijk 177, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.269784069848201,50.81752335820754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90300</name>
+			<description>Volksplein - Pijlstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100</styleUrl>
+			<Point>
+				<coordinates>3.271762673481196,50.81975145337211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90308</name>
+			<description>Sint-Denijsestraat 133, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000011</styleUrl>
+			<Point>
+				<coordinates>3.274370299955605,50.81982677618058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Felix de Bethunelaan 4-8, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.257110700000001,50.81988060000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90306</name>
+			<description>Sint-Denijsestraat 174, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000011</styleUrl>
+			<Point>
+				<coordinates>3.274106783307103,50.81988508854798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90177</name>
+			<description>Loofstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.267906605013042,50.82001370088599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90178</name>
+			<description>Loofstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.268232458685647,50.82000277103857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90307</name>
+			<description>Sint-Denijsestraat 105-123, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000011</styleUrl>
+			<Point>
+				<coordinates>3.27415324325615,50.82012653658095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90305</name>
+			<description>Sint-Denijsestraat 168, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000011</styleUrl>
+			<Point>
+				<coordinates>3.273751745006344,50.82033155082616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90282</name>
+			<description>Boerderijstraat 49, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000011</styleUrl>
+			<Point>
+				<coordinates>3.270477661114402,50.8204327406809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90301</name>
+			<description>Volksplein 1-47, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.272117048497307,50.82047306304486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90281</name>
+			<description>Boerderijstraat 40-82, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000011</styleUrl>
+			<Point>
+				<coordinates>3.270671488081198,50.82057435269807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Felix de Bethunelaan 4-8, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2562232,50.8205663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90283</name>
+			<description>Boerderijstraat 2-38, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000011</styleUrl>
+			<Point>
+				<coordinates>3.272982489134182,50.8207061399402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Felix de Bethunelaan 31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2567588,50.82040320000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90294</name>
+			<description>Voorzienigheidsstraat 2-102, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.275278718645116,50.82073242007832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90293</name>
+			<description>Voorzienigheidsstraat 5, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.274802207625254,50.82080139303093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90331</name>
+			<description>Aalbeeksesteenweg 23-31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.258210953245173,50.82085529351714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90332</name>
+			<description>Aalbeeksesteenweg 68-104, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.25800379980661,50.82085816642887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90002</name>
+			<description>Doorniksewijk , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.268894949482188,50.82090758970295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90014</name>
+			<open>1</open>
+			<description>Doorniksewijk , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.269154830428611,50.81968030722083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90286</name>
+			<description>Sint-Denijsestraat 103, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.27352040341526,50.82110897312889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90284</name>
+			<description>Vooruitgangsstraat 37, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.272363223009163,50.82117387938644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90285</name>
+			<description>Sint-Denijsestraat 104-140, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.273270615459041,50.82111865517708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20296</name>
+			<description>Voorzienigheidsstraat 2-102, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.276034814043427,50.82127622774851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90295</name>
+			<description>Voorzienigheidsstraat 57, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.275794790912276,50.82134938692357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90278</name>
+			<description>Toekomststraat 2-60, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.270337933531358,50.8215167977512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90277</name>
+			<description>Toekomststraat 19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.270253393072844,50.82164664217206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90280</name>
+			<description>Toekomststraat 2-60, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.272090204631237,50.82162254982706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90288</name>
+			<description>Filips van de Elzaslaan 2-64, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.274546468687127,50.82166525193525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90279</name>
+			<description>Toekomststraat 47, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.271552749969822,50.82174831575597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90290</name>
+			<description>Filips van de Elzaslaan 66, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.276506066095348,50.8216705584519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90287</name>
+			<description>Filips van de Elzaslaan 31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.274267128300326,50.82184112823821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90289</name>
+			<description>Filips van de Elzaslaan 53-81, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.276342339727085,50.8218221325438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90325</name>
+			<description>Minister Vanden Peereboomlaan 68-88, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.255889809793688,50.82198056490839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90326</name>
+			<description>Minister Vanden Peereboomlaan 51, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.256251337486851,50.82197877342541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90021</name>
+			<description>Doorniksewijk 21-39, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.268846732016109,50.82196391724474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90291</name>
+			<description>Filips van de Elzaslaan 102, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.277514627104596,50.82209308356171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90321</name>
+			<description>Monseigneur de Haernelaan, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.257768599517326,50.82213064753477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90292</name>
+			<description>Vannestes Reke 1-19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000001</styleUrl>
+			<Point>
+				<coordinates>3.277262051622327,50.8222073494093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hoveniersstraat 31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2643509,50.8222503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90271</name>
+			<description>Sint-Denijsestraat 74-102, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.272663932661521,50.82230582565549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90330</name>
+			<description>Aalbeeksesteenweg 2-54, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.258438435904003,50.8221998460131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90329</name>
+			<description>Aalbeeksesteenweg , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.258733935695839,50.82241412650339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hoveniersstraat 31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2651415,50.82257439999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90276</name>
+			<description>Kanonstraat 47-81, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.269672147113381,50.82257843326789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90323</name>
+			<description>Minister Vanden Peereboomlaan 60, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.256817001303998,50.82256055179342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90275</name>
+			<description>Kanonstraat 54, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.269411579554511,50.82266245510484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Bloemistenstraat 7-21, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2636218,50.8227279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90273</name>
+			<description>Kanonstraat 2-24, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.271695287120144,50.82277526756843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90324</name>
+			<description>Minister Vanden Peereboomlaan 19-21, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.257420650727045,50.82282414263125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90263</name>
+			<description>Zwevegemsestraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.277116085617804,50.82290192305231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>N8 154-192, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.276851352816403,50.82286946584851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90158</name>
+			<description>Driekerkenstraat Bissegem, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00</styleUrl>
+			<Point>
+				<coordinates>3.227494595477412,50.82284272005217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90162</name>
+			<description>Zwevegemsestraat 152, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.276441325499304,50.82285961519794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90270</name>
+			<description>Sint-Denijsestraat 54-66, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint000</styleUrl>
+			<Point>
+				<coordinates>3.27243175298066,50.82300992938927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hoveniersstraat 4, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2664773,50.82353250000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90008</name>
+			<description>Meensesteenweg 401Bissegem, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00</styleUrl>
+			<Point>
+				<coordinates>3.226245307812534,50.82302279438974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90272</name>
+			<description>Klakkaards Reke, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint1</styleUrl>
+			<Point>
+				<coordinates>3.273045259853424,50.82317548937964,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90147</name>
+			<description>Jan Sabbestraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.274818927441046,50.82307578490164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90169</name>
+			<open>1</open>
+			<description>Jan Sabbestraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint1</styleUrl>
+			<Point>
+				<coordinates>3.275629332266732,50.82279207131672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90007</name>
+			<description>Bissegemplaats 7 Bissegem, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.226919557229933,50.82317476905312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Bloemistenstraat 2-6, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2634434,50.8232199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hoveniersstraat 1, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2670472,50.8232699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90161</name>
+			<description>Zwevegemsestraat 91-121, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.275772077072687,50.82328479269398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90022</name>
+			<description>Doorniksewijk 1, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.268605942104399,50.8232703882403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90078</name>
+			<description>Klakkaards Plein, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.273557511388914,50.82329893156473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90191</name>
+			<description>Minister Tacklaan 99-119, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.260174357104768,50.82334275365557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hoveniersstraat 4, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2664773,50.82353250000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90192</name>
+			<description>Minister Tacklaan 51-93, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.261013522176279,50.82339850652462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90322</name>
+			<description>Minister Vanden Peereboomlaan 4-28, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.258420920404492,50.82348322453434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90159</name>
+			<description>Zwevegemsestraat 122, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.274047374230245,50.82372894406142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Graaf Boudewijn IX-laan 48, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2780981,50.8239459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Graaf Boudewijn IX-laan 48, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2780981,50.8239459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90193</name>
+			<description>Minister Tacklaan 15-29, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.266183456333318,50.82378393449495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90269</name>
+			<description>Kortrijk Sint-Denijsestraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.272398959981784,50.82388635079468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90317</name>
+			<description>Kongoweg 8-10, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000</styleUrl>
+			<Point>
+				<coordinates>3.257697648070128,50.82397839358013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90068</name>
+			<description>Minister Tacklaan , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.267815309056568,50.82404949846706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90070</name>
+			<description>Steyts koer, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.273157762673125,50.82397949973199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90024</name>
+			<description>Wandelweg , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.269228333535572,50.82415331490963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90371</name>
+			<description>Meensesteenweg 367-379 Bissegem, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00</styleUrl>
+			<Point>
+				<coordinates>3.22882169351935,50.82419331438828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90183</name>
+			<description>Meensesteenweg 353-367 Bissegem, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00</styleUrl>
+			<Point>
+				<coordinates>3.230163508785668,50.82425271083002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12345</name>
+			<description>Sint-Antoniusstraat 59-81, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0</styleUrl>
+			<Point>
+				<coordinates>3.274703226675557,50.82433027767973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90125</name>
+			<description>Mentor vzw, Wandelweg 11, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000012</styleUrl>
+			<Point>
+				<coordinates>3.271294361119765,50.82445645529587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90152</name>
+			<description>Conservatoriumplein , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.262067922282566,50.82509618927094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Graaf Boudewijn IX-laan 76-112, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0</styleUrl>
+			<Point>
+				<coordinates>3.2785449,50.8246658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stationsplein 6, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2644341,50.8246278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Spoorweglaan 10, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2700442,50.8247083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Spoorweglaan 20, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2707254,50.8248041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Spoorweglaan 28, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2718312,50.8248596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Doornikselaan 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2652852,50.824837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Sint-Janslaan 19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2712665,50.82523550000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Graaf Boudewijn IX-laan 17-37, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0</styleUrl>
+			<Point>
+				<coordinates>3.278422119701465,50.82476173347617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90126</name>
+			<description>Zandstraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.258658357117243,50.82482484550673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Doornikselaan 1-7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2660828,50.8248744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90153</name>
+			<description>Casinoplein - Conservatoriumplein, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint1</styleUrl>
+			<Point>
+				<coordinates>3.261817301700898,50.82531216822835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stationsplein 6, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2644341,50.8246278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Pluimstraat 13-35, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2738268,50.8250706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Sint-Jorisstraat 2-12, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2663388,50.8251317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90241</name>
+			<description>Nieuwstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000</styleUrl>
+			<Point>
+				<coordinates>3.269296170971421,50.82509982168889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90185</name>
+			<open>1</open>
+			<description>Nieuwstraat 2-22, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000000</styleUrl>
+			<Point>
+				<coordinates>3.269465981325039,50.82551551025701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90018</name>
+			<description>Centrumparking Station, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.259787706771358,50.82518477142515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90214</name>
+			<open>1</open>
+			<description>Centrumparking Station, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.260561326647298,50.8243859486654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90039</name>
+			<open>1</open>
+			<description>Centrumparking Station, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000000</styleUrl>
+			<Point>
+				<coordinates>3.260612365797084,50.82499851229663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90200</name>
+			<description>Zwevegemsestraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.272410222783255,50.82521209250274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90201</name>
+			<description>Zwevegemsestraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.272213188515154,50.82520632564012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90033</name>
+			<description>Casinoplein , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.262667748100381,50.82564853100441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Albertstraat 5-7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2633432,50.8253268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Albertstraat 6, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2635022,50.8253685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stationsstraat 5, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2643412,50.82583979999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Vlasmarkt 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2678586,50.8255468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Albertstraat 22, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.262640900000001,50.8258615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stationsstraat 2-18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.264245299999999,50.8257131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Slachthuisstraat 21, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2740062,50.8256905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Pluimstraat 79-115, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2760264,50.8257742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90154</name>
+			<description>Conservatoriumplein , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint1</styleUrl>
+			<Point>
+				<coordinates>3.261199290727381,50.82575573243531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Doorniksestraat 35-47, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2672395,50.825843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Jan Palfijnstraat 18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2633783,50.8259212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90197</name>
+			<description>Wandelingstraat 40, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.277787461029968,50.82591462185274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90336</name>
+			<open>1</open>
+			<description>Wandelingstraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.27792423114708,50.82601564513874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Havermarkt 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2646064,50.82594600000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Passionistenlaan 6-42, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2790358,50.8260567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Jan Palfijnstraat 18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2633783,50.8259212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hendrik Consciencestraat 12-46, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2593496,50.8261819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Albertstraat 31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2616956,50.82624559999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Beheerstraat 29, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2578458,50.82662429999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Albertstraat 26-92, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2619907,50.82618230000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Roeland Saverystraat 4-24, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2608675,50.8262339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Roeland Saverystraat 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2609845,50.826345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90146</name>
+			<description>Veemarkt 26, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.273448924394258,50.82642373535497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Passionistenlaan 6-42, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.279817,50.82639990000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90145</name>
+			<description>Veemarkt 58-70, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.274531390500608,50.82645822698693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Oude-Vestingsstraat 1-7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2635863,50.8265186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Doorniksestraat 2-22, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.266509600000001,50.8265453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Waterpoort 17, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2647537,50.82659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hendrik Consciencestraat 12-46, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2599383,50.82662610000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Oude-Vestingsstraat 9-25, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2621275,50.8266622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Doorniksestraat 1-19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2664662,50.8266233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Waterpoort 20, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.264695,50.8267636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Oude-Vestingsstraat 6-14, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.261830300000001,50.8266785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Oude-Vestingsstraat 6-14, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2627805,50.8267023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Doorniksestraat 2-22, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.266147,50.8268604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Graanmarkt 1, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2656216,50.8268899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Doorniksestraat 1-19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2661509,50.8268974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Veldstraat 153-169, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2778086,50.8271188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90080</name>
+			<description>Groeningelaan , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.275865445018102,50.82755354444846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90216</name>
+			<open>1</open>
+			<description>Groeningelaan , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.275687207866205,50.82710443418576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90207</name>
+			<description>Stompaertshoek, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.273191363653702,50.82695032252856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<description>Langemeersstraat 8-12, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.274385,50.8271913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Romeinselaan, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2727598,50.8277638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Passionistenlaan 6-42, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2814451,50.827244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90098</name>
+			<description>Rijselsestraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.262233660252614,50.82728150297779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90097</name>
+			<open>1</open>
+			<description>Rijselsestraat 37, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.262836944197074,50.82745202625929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Blekersstraat 18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2561979,50.82757759999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Nolfstraat 29-41, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2583006,50.8273491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Nolfstraat 12-20, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.258246499999999,50.8273465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Leopold I-straat 4-28, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2600337,50.8273723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Jan-Baptist de Jonghestraat 7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2608283,50.8277532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Jan-Baptist de Jonghestraat 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2609198,50.827414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90099</name>
+			<description>Rijselsestraat 30-40, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.262282827477865,50.82744525543328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90095</name>
+			<description>Grote Markt 27-35, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000000</styleUrl>
+			<Point>
+				<coordinates>3.267120014398879,50.82773670807541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<description>Grote Markt 27-35, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000000</styleUrl>
+			<Point>
+				<coordinates>3.266356372112114,50.8274815867887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90096</name>
+			<description>Rijselsestraat 19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.264051765704044,50.82770933548308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90100</name>
+			<open>1</open>
+			<description>Rijselsestraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.262920166951842,50.82762022049885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Louis Verweestraat 5, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.261348299999999,50.8275132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Louis Verweestraat 2-10, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2614571,50.8275266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Blekersstraat 1-37, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2564396,50.8275792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Heilige Geeststraat 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2628732,50.8276155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Nolfstraat 21-27, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2587547,50.82766529999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90101</name>
+			<description>Rijselsestraat , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.264107598767696,50.82783212831734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Leopold I-straat 19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2595233,50.8275534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Leopold I-straat 19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2595233,50.8275534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Sint-Michielsplein, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2633512,50.8278116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Papenstraat 13, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2637179,50.8283192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Romeinselaan, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2727598,50.8277638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Edmond Depraterestraat 1-7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2582443,50.8278639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Heilige Geeststraat 5, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.262496300000001,50.82819709999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Passionistenlaan 6-42, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.282454700000001,50.8279428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90081</name>
+			<description>Groeningelaan , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.275896244353465,50.82802142883399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Meersstraat 12, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2541621,50.8279652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90036</name>
+			<description>Boerenhol, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.269157401698308,50.82814425106147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>President Rooseveltplein 21, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2612265,50.8278867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Leeuw van Vlaanderenlaan 4, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2774214,50.8282042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Meersstraat 3-25, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2561994,50.8282448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kasteelstraat 2-18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.261885,50.8282044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hendrik Beyaertstraat 20, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.257784000000001,50.8282264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Nolfstraat 1-9, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2596604,50.8282875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Leiestraat 8, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2651789,50.82826099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Leeuw van Vlaanderenlaan 21, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2774812,50.82833360000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Peter Benoitstraat 1-7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2590751,50.8284763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Beheerstraat 72, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2569442,50.8285656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Nolfstraat 10, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2596572,50.8283703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hendrik Beyaertstraat 4-14, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2583272,50.8285469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Heilige Geeststraat 7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2624246,50.8283037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Oude Kasteelstraat 15-25, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2617123,50.8286723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Beheerstraat 57-75, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2567321,50.82867930000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Veldstraat 128, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2784117,50.82879670000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>President Rooseveltplein 9, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2602804,50.8286487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Hendrik Beyaertstraat 4-14, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2585443,50.8286708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Paleisstraat 1-11, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2576519,50.8287134,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Veldstraat 128, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2784117,50.82879670000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Paleisstraat 4-20, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2575563,50.8287963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Passionistenlaan 54, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.283439,50.8288771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Onze-Lieve-Vrouwestraat 20-26, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2658901,50.8288456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Belfaststraat 20, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.259362,50.8288959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Havenkaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2550859,50.8288074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kasteelstraat 29, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2612293,50.8289649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Plein 48, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.271712899999999,50.8294119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Belfaststraat 12-18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2601082,50.8290171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Heilige Geeststraat 21, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2620702,50.8290653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Onze-Lieve-Vrouwestraat 31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2660284,50.8290842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Schippersstraat 1, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2587914,50.8290966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Deken Zegerplein 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2669362,50.8290982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Plein 28-30, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2733044,50.8291354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Houtmarkt 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.270663,50.829074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Schippersstraat 1, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2587802,50.8291535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Handelskaai 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.257326700000001,50.82918380000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Handelskaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2598741,50.8293948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Handelskaai 1-3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.258249,50.829278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Houtmarkt 15-25, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2712236,50.8293575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90001</name>
+			<description>Kasteelkaai , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.261872707641274,50.82931358290764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90019</name>
+			<description>Kasteelkaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.260971420557848,50.82927067165363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Handelskaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2598741,50.8293948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90116</name>
+			<description>Dolfijnkaai , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.263458840195632,50.82935224938287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Veldstraat 96, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2780476,50.82938470000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Handelskaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2598741,50.8293948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Handelskaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2598741,50.8293948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90093</name>
+			<description>Kasteelkaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.26203364729232,50.8294486415934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90092</name>
+			<description>Kasteelkaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.262788726178876,50.82947456962976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90091</name>
+			<description>Dolfijnkaai , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.263624103375993,50.82950937237175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Plein 50-54, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2716861,50.8295394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Passionistenlaan 54-82, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2842154,50.8295304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90031</name>
+			<description>Verzetskaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.265015639713191,50.82956666470717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Groeningestraat 1-5, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2675707,50.82956539999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90187</name>
+			<description>Groeningelaan 52, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.276668001520238,50.82853832193542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<description>Zwevegemsestraat 1-45, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2723192,50.8251652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Groeningestraat 1-5, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2679339,50.829637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Jakob van Arteveldelaan 37, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2772859,50.8299913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Reepkaai 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2616723,50.8296943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Reepkaai 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2625395,50.8297059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Reepkaai 4, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2602862,50.82973839999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Reepkaai 3, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2635379,50.8297143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Reepkaai 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2633478,50.8297727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90032</name>
+			<description>Verzetskaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.265956034681847,50.82982327108014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Vaartstraat 2-26, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2746595,50.829922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Plein 13, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2729984,50.8299851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Plein 13, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.272166400000001,50.8299927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Vestingsstraat 8, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2747387,50.8302124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Budastraat 17, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2636664,50.8302295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Gentsestraat 1-7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2742134,50.8303153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Veldstraat 48-72, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2772111,50.8303647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kleine Leiestraat 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2705338,50.8304278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kleine Leiestraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2709352,50.83057969999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Noordstraat 5-39, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2555952,50.8304994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Broelkaai 1-7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.266087600000001,50.83054039999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Noordstraat 28-38, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2556271,50.830513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Vaartstraat 27, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.275974,50.83064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Harelbeeksestraat 5-29, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.275325200000001,50.8306505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Harelbeeksestraat 5-29, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2753386,50.8306382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kortrijk Stasegemstraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2846614,50.83087459999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Broelkaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2673694,50.8309283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 185-247, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2848322,50.8309199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Rekollettenstraat 29-39, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2558082,50.83099920000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Tayaertstraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2664148,50.8310044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Schinkelstraat 2-66, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2595586,50.83101069999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Guldenbergplantsoen 2-10, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2695928,50.8310689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Budastraat 40, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.262856,50.8307992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Rekollettenstraat 104, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2560415,50.83113289999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90225</name>
+			<open>1</open>
+			<description>Centrumparking Hospitaal - Gasstraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.256804065731724,50.83062975612394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90213</name>
+			<open>1</open>
+			<description>Centrumparking Hospitaal - Gasstraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.256852302006779,50.83085001171528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90212</name>
+			<open>1</open>
+			<description>Centumparking Hospitaal - Gasstraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.257258169229129,50.8302657812383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90006</name>
+			<description>Dam , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000100</styleUrl>
+			<Point>
+				<coordinates>3.267172021520328,50.83110862742544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Fabriekskaai 2, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2608044,50.83122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 126-142, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2829072,50.83126099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Noordstraat 67, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2548471,50.8315109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Vaartstraat 45-55, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2772368,50.8312478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 104-124, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.280764,50.8313578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 143, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2823169,50.8313231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Veldstraat 30, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2762772,50.8312924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90016</name>
+			<description>Dam 75, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000100</styleUrl>
+			<Point>
+				<coordinates>3.266924698523566,50.83132775565588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 28-80, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2786879,50.8314515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 95, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2804274,50.8314001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 39-79, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2788619,50.83145930000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Gasstraat 17-55, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2562843,50.83151970000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Burgemeester Schinkelstraat 1-27, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2591487,50.83157970000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Rekollettenstraat 17-27, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2576558,50.8316048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90143</name>
+			<description>Dam , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000100</styleUrl>
+			<Point>
+				<coordinates>3.26650563009171,50.83157645513597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 1-37, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2768763,50.831666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Gasstraat 17-55, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.255562400000001,50.8316974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Dam 2-4, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.264340499999999,50.8315827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Stasegemsestraat 1-37, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2773243,50.8316286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90189</name>
+			<description>Dam , 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000100</styleUrl>
+			<Point>
+				<coordinates>3.26676600060422,50.83168528295099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Dam 10-12, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2649071,50.8315951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Dam 1, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2635585,50.8317614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90316</name>
+			<description>Diksmuidekaai 1, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001000</styleUrl>
+			<Point>
+				<coordinates>3.26177043000887,50.8316747225772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Dam 49-71, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.265593,50.83178659999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Rekollettenstraat 90, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2569028,50.8314413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Schaekenstraat 13, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2798478,50.8317817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Dam 49-71, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.265657899999999,50.8317849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Gasstraat 2-6, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.255979500000001,50.83179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Vaartstraat 77, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2781785,50.83204309999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90010</name>
+			<description>Overleiestraat 17, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001</styleUrl>
+			<Point>
+				<coordinates>3.260803276133824,50.83212739974341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>IJzerkaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.263482900000001,50.8321109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Rekollettenstraat 10, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2596088,50.832339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Sint-Amandsplein 5, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2609412,50.8325668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>IJzerkaai 28, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2660624,50.8326198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kollegestraat, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.263245200000001,50.8328842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Sint-Amandslaan 18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2620518,50.83282669999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90005</name>
+			<description>Overleiestraat 43, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001</styleUrl>
+			<Point>
+				<coordinates>3.259918700756497,50.83283489167096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Sint-Amandslaan 1-15, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2619175,50.8328712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90027</name>
+			<description>Overleiestraat 38-56, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001</styleUrl>
+			<Point>
+				<coordinates>3.259944302660813,50.83294719728015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Damkaai 6-14, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2696181,50.8329514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90083</name>
+			<description>Meensestraat 41, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001</styleUrl>
+			<Point>
+				<coordinates>3.257015891961101,50.83293658597545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90372</name>
+			<open>1</open>
+			<description>Meensestraat nr 7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint</styleUrl>
+			<Point>
+				<coordinates>3.25545918564381,50.83255262688856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Sint-Amandslaan 1-15, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2625896,50.83309190000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>IJzerkaai 54-62, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2684524,50.833189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kapelstraat 18, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2620332,50.83342040000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90004</name>
+			<description>Overleiestraat 61, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001</styleUrl>
+			<Point>
+				<coordinates>3.259243155581597,50.83326335398303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Kapelstraat 45, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.262009,50.8335022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Proosdijstraat 7, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2621135,50.8340122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Diksmuidekaai, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2670201,50.8336916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Proosdijstraat 7-31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.261509,50.8343366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90112</name>
+			<description>Vercruysses Poortje 4-16, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint001</styleUrl>
+			<Point>
+				<coordinates>3.259875757291293,50.83442800776182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Proosdijstraat 7-31, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2613223,50.8344339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Albertpark, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2677489,50.8344592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Proosdijstraat 39, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.2607473,50.834686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Koning Albertpark 7-19, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint00100000101</styleUrl>
+			<Point>
+				<coordinates>3.266848,50.83508920000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90079</name>
+			<description>Brugsestraat 80, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.261316348202974,50.83503263385551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90373</name>
+			<open>1</open>
+			<description>Burgermeester Vercruysselaan, 8500 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint</styleUrl>
+			<Point>
+				<coordinates>3.263111074903569,50.83556701013482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90173</name>
+			<description>Kortrijksestraat Heule, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint01</styleUrl>
+			<Point>
+				<coordinates>3.234801100875959,50.84109739064496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90176</name>
+			<description>Kortrijksestraat 22 Heule, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint01</styleUrl>
+			<Point>
+				<coordinates>3.234752306235171,50.84176090882387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90174</name>
+			<description>Kortrijksestraat 19, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint01</styleUrl>
+			<Point>
+				<coordinates>3.234937397585018,50.84227084115705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90175</name>
+			<description>Kortrijksestraat 11 Heule, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint01</styleUrl>
+			<Point>
+				<coordinates>3.234908043242382,50.84267989239775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90155</name>
+			<description>Peperstraat Heule, 8501 Kortrijk, Belgi&amp;#235;</description>
+			<styleUrl>#gv_waypoint02</styleUrl>
+			<Point>
+				<coordinates>3.23459366186585,50.84270183119625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TEST</name>
+			<description>Graaf Boudewijn IX laan, Kortrijk, België</description>
+			<LookAt>
+				<longitude>3.278802969190511</longitude>
+				<latitude>50.82392519108429</latitude>
+				<altitude>0</altitude>
+				<heading>-13.19308872158699</heading>
+				<tilt>0</tilt>
+				<range>646.287881475241</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#gv_waypoint0</styleUrl>
+			<Point>
+				<coordinates>3.277753530738852,50.82361198793657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90376</name>
+			<open>1</open>
+			<description>Rijkswachtstraat, Kortrijk, België</description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>3.276617406402602</longitude>
+				<latitude>50.82397028441148</latitude>
+				<altitude>0</altitude>
+				<heading>25.05819287641275</heading>
+				<tilt>85.73074017773705</tilt>
+				<range>35.03177651530149</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#gv_waypoint</styleUrl>
+			<Point>
+				<coordinates>3.276487335673455,50.82374004416033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90374</name>
+			<open>1</open>
+			<description>Tuighuisstraat tov nr 14, Kortrijk, België</description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>3.272274531205621</longitude>
+				<latitude>50.82547489567804</latitude>
+				<altitude>0</altitude>
+				<heading>-70.21327661018597</heading>
+				<tilt>86.13157776938279</tilt>
+				<range>301.5209877132002</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#gv_waypoint</styleUrl>
+			<Point>
+				<coordinates>3.276215727421066,50.8245877368738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90377</name>
+			<open>1</open>
+			<description>Tuighuisstraat nr 5-6, Kortrijk, België</description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>3.277157399933393</longitude>
+				<latitude>50.82435964287966</latitude>
+				<altitude>0</altitude>
+				<heading>-62.86902576994996</heading>
+				<tilt>82.31753535950358</tilt>
+				<range>18.38591154735097</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#gv_waypoint</styleUrl>
+			<Point>
+				<coordinates>3.277278315978809,50.82432750522069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90375</name>
+			<open>1</open>
+			<description>Tuighuisstraat nr 24, Kortrijk, België</description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>3.277242901532134</longitude>
+				<latitude>50.82503155421131</latitude>
+				<altitude>0</altitude>
+				<heading>171.651087626338</heading>
+				<tilt>72.01507833780562</tilt>
+				<range>8.096628344910034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#gv_waypoint</styleUrl>
+			<Point>
+				<coordinates>3.277215872782455,50.82507418692842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90144</name>
+			<description>Groeningelaan, Kortrijk, Belgie</description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>3.275543249672339</longitude>
+				<latitude>50.82951343449198</latitude>
+				<altitude>0</altitude>
+				<heading>153.7664420772706</heading>
+				<tilt>82.37928663764832</tilt>
+				<range>18.977257156931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#gv_waypoint0010000010</styleUrl>
+			<Point>
+				<coordinates>3.275525371162267,50.82957007143381,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

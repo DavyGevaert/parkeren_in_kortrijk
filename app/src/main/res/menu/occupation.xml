@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="be.programmeercursussen.parkingkortrijk.Occupation" >
+    <item android:id="@+id/action_previous_occupation"
+        android:title="@string/action_previous"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_quit_occupation"
+        android:title="@string/action_quit"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

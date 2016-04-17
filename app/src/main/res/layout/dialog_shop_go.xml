@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:paddingTop="150dp"
+    android:paddingBottom="50dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/dialog_shop_go_locatie"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/tv_dialog_shop_go_location" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:text="@string/dialog_shop_go_status"
+        android:id="@+id/tv_dialog_shop_go_status" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/im_btn_park"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/parking_50x50" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/im_btn_close"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/afsluiten" />
+    </LinearLayout>
+
+
+
+</LinearLayout>
